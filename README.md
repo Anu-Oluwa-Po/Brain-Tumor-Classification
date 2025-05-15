@@ -1,5 +1,5 @@
 # Brain Tumor Classifier 🧠🔬
-A Flask-based web app that predicts the presence and type of Brain Tumor using machine learning. Built with multiple Convolutional Neural Networks (CNNs) trained on medical imaging data and deployed on Render 🚀.
+A Flask-based web app that predicts the presence and type of Brain Tumor using machine learning. Built with multiple Convolutional Neural Networks (CNNs) trained on medical imaging data🚀.
 
 ## 🚀 Features
 ✅ Classifies Brain Tumors from MRI images (e.g., Glioma, Meningioma, Pituitary, No Tumor)
