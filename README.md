@@ -3,8 +3,11 @@ A Flask-based web app that predicts the presence and type of Brain Tumor using m
 
 ## 🚀 Features
 ✅ Classifies Brain Tumors from MRI images (e.g., Glioma, Meningioma, Pituitary, No Tumor)
+
 ✅ User-friendly interface powered by Flask
+
 ✅ Deep Learning Model (CNN) trained on real annotated MRI scans
+
 ✅ Supports real-time prediction from uploaded medical images
 
 ## 🚀 Future Improvements
