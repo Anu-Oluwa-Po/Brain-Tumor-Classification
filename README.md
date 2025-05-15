@@ -12,7 +12,9 @@ A Flask-based web app that predicts the presence and type of Brain Tumor using m
 
 ## 🚀 Future Improvements
 🔹 Improve model accuracy with advanced architectures (e.g., ResNet, EfficientNet)
+
 🔹 Include Grad-CAM visualizations for model explainability
+
 🔹 Support more image formats and bulk uploads
 
 ## 📬 Contact & Contributions
