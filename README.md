@@ -18,6 +18,6 @@ A Flask-based web app that predicts the presence and type of Brain Tumor using m
 🔹 Support more image formats and bulk uploads
 
 ## 📬 Contact & Contributions
-📩 Email: anuoluwapolorimi25@gmail.com 🌐 Try the Live System
+📩 Email: anuoluwapolorimi25@gmail.com 
 
 🚀 Feel free to contribute! Fork the repo and enhance spam detection capabilities.
